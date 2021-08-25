@@ -1,0 +1,12 @@
+{
+  "name": "fastify-sql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sim",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "fastify": "^3.20.2",
+    "typescript": "^4.3.5"
+  }
+}
